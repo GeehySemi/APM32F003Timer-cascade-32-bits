@@ -1,0 +1,12 @@
+.\objects\main.o: ..\..\Source\main.c
+.\objects\main.o: ..\..\Include\main.h
+.\objects\main.o: ..\..\..\..\..\Library\APM32F00x_StdPeriphDriver\inc\apm32f00x_tmr1.h
+.\objects\main.o: ..\..\..\..\..\Library\Device\Geehy\APM32F00x\Include\apm32f00x.h
+.\objects\main.o: ..\..\..\..\..\Library\CMSIS\Include\core_cm0plus.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: ..\..\..\..\..\Library\CMSIS\Include\cmsis_version.h
+.\objects\main.o: ..\..\..\..\..\Library\CMSIS\Include\cmsis_compiler.h
+.\objects\main.o: ..\..\..\..\..\Library\CMSIS\Include\cmsis_armcc.h
+.\objects\main.o: ..\..\..\..\..\Library\APM32F00x_StdPeriphDriver\inc\apm32f00x_tmr2.h
+.\objects\main.o: ..\..\..\..\..\Library\APM32F00x_StdPeriphDriver\inc\apm32f00x_usart.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
